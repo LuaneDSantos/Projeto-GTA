@@ -1,0 +1,1 @@
+Projeto desenvolvido durante a Semana do Zero ao Programador do Dev em Dobro, com foco na criação de uma landing page inspirada no jogo GTA V. Durante esta iniciativa, pude aprimorar minhas habilidades em responsividade, JavaScript, HTML e CSS.
